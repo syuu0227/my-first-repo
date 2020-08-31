@@ -1,5 +1,2 @@
-This is text file.
-New row.
-Feature branch.
-
-develop edit.
+All delete.
+feature branch.
