@@ -1,2 +1,2 @@
-All delete.
-feature branch.
+Another branch.
+Conflict now.
