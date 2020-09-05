@@ -1,2 +1,3 @@
 Another branch.
-Conflict now.
+
+Finally, I change this text.
